@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yag8nb.salamcuan.shop/sitemap.xml
